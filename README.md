@@ -1,2 +1,7 @@
-# demo-maria-lucia-mendez-menpapropiedades
-Demo web para Maria Lucia Mendez, MENPAPROPIEDADES — diseñada por eterlab.
+# Maria Lucia Mendez, MENPAPROPIEDADES
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
